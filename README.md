@@ -1,2 +1,3 @@
-# TimeSeries3
-Time Series Analysis - DTU - Spring 2018: Estimating ARMA Processes and Seasonal Processes
+# Time Series Analysis - DTU - Spring 2018
+
+Estimating ARMA Processes and Seasonal Processes
